@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74f4ec4b75e674b19902074b12dc1c45, type: 3}
   m_Name: New Question 1
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: "\u041A\u0430\u043A \u0434\u0435\u043B\u0430?"
   answers:
-  - 
-  - 
-  correctAnswerIndex: 2
+  - "\u041D\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u043E"
+  - "\u041D\u0435 \u043E\u0447\u0435\u043D\u044C"
+  - "\u0425\u043E\u0440\u043E\u0448\u043E"
+  - "\u041E\u0442\u043B\u0438\u0447\u043D\u043E"
+  correctAnswerIndex: 3
