@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
@@ -13,6 +14,8 @@ public class Timer : MonoBehaviour
 	
 	public bool loadNextQuestion;
 	public float fillFraction;
+	[SerializeField] Image timerImage;
+	
 	
 	private void Update() 
 	{
