@@ -966,8 +966,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc0be91bfae374f499e76e2eb60c5921, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  question: {fileID: 11400000, guid: a4002e11ee396834193a03fa7a87b444, type: 2}
   questionText: {fileID: 2132101593}
+  question: {fileID: 11400000, guid: a4002e11ee396834193a03fa7a87b444, type: 2}
   answerButtons:
   - {fileID: 745883002}
   - {fileID: 1524951131}

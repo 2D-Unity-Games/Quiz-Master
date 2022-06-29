@@ -10,11 +10,9 @@ public class Timer : MonoBehaviour
 	[SerializeField] float timeToShowCorrectAnswer = 10f;
 	
 	public bool isAnsweringQuestion;
-	float timerValue;
-	
 	public bool loadNextQuestion;
 	public float fillFraction;
-	[SerializeField] Image timerImage;
+	float timerValue;
 	
 	
 	private void Update() 
